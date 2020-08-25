@@ -1,0 +1,75 @@
+header h1 {
+    background-color: #B1CCC8;
+text-align: center;
+color: #973999;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding: 5px;
+
+
+}
+
+header nav ul{
+
+background-color: #d441da;
+margin: 22px;
+padding: 20px;
+color: yellow;
+font-size: x-large;
+text-align: center;
+
+}
+
+header nav {
+margin-left: 30%;
+width: 40%;
+}
+
+
+header nav ul li {
+    display: inline;
+    padding: 13px;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color:#7faeda;
+}
+
+.juci1 {
+text-align: center;
+width: 600;
+height: 350;
+}
+
+.juci2 {
+text-align: center; 
+width: 600;
+height: 350;
+}
+
+main section p{
+    text-align: center
+;
+}
+
+img{
+    width: 600px;
+    height: 400px;
+}
+
+
+.cp {
+border: 5px solid;
+margin-left: 100px;
+width: 50%;
+padding: 11px;
+}
+
+body p{
+    font-size: 20px;
+    font-family: cursive;
+}
+
+body{
+    background-color: #619695;
+}
